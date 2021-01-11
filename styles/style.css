@@ -1,0 +1,20 @@
+.logo {
+  height: 35px;
+  margin: 8px;
+}
+
+nav .orangeBtn {
+  background-color: rgb(241, 120, 54);
+  border-radius: 15px;
+  padding: 5px;
+  color: white;
+  font-weight: 200;
+  font-size: 90%;
+  width: 100px;
+  text-align: center;
+}
+
+.main > .row {
+  height: 500px;
+  text-align: center;
+}
